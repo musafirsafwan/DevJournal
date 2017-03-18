@@ -10,12 +10,12 @@ title: Musafir Safwan
 email: musafirsafwan@gmail.com
 
 #write html inside the double quotes to display in jumbotron
-description: "<h3>Hello, world!</h3><h1>DevJournal</h1><h3>Awesome Jekyll Theme for Developers!</h3>Hope you like it!"
+description: "<h3>Musair Safwan</h3><h1>Project Undo</h1><h3>A study on time travelling</h3>"
 
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hemangsk.github.io" # the base hostname & protocol for your site
+url: "http://musafirsafwan.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
