@@ -7,7 +7,7 @@
 
 # Site settings
 title: Musafir Safwan
-email: hemangsk@gmail.com
+email: musafirsafwan@gmail.com
 
 #write html inside the double quotes to display in jumbotron
 description: "<h1>Projuct Undo</h1><h3>A study on time travelling</h3>To erase the past"
@@ -15,7 +15,7 @@ description: "<h1>Projuct Undo</h1><h3>A study on time travelling</h3>To erase t
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hemangsk.github.io" # the base hostname & protocol for your site
+url: "http://musafirsafwan.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
